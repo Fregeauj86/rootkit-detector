@@ -1,0 +1,29 @@
+Rootkit Detector Report - 2025-06-18_23-22-01
+========================================
+=== Checking for Hidden Processes ===
+[!!] Possible hidden processes detected:
+  - SafeConnect.ServiceHost.e
+  - AdobeNotificationClient.e
+  - AcerDeviceInfoAgentServic
+  - Secure
+  - NVIDIA
+  - CefSharp.BrowserSubproces
+  - tasklist.exe
+  - PowerToys.PowerLauncher.e
+  - AcrobatNotificationClient
+  - StartMenuExperienceHost.e
+  - PowerToys.KeyboardManager
+  - AcerSysHardwareService.ex
+  - Memory
+  - WindowsPackageManagerServ
+  - AcerSystemCentralService.
+
+=== Checking Windows Startup Folders ===
+Folder: C:\Users\frege\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+  - Startup item: desktop.ini
+Folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+  - Startup item: desktop.ini
+  - Startup item: McAfee Security Scan Plus.lnk
+  - Startup item: Storage Security Software.lnk
+
+Scan complete.
